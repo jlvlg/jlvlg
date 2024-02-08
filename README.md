@@ -13,18 +13,18 @@
       /></a>
     </td>
     <td>
-      <a href="https://github.com/jlvlg/IP-Projeto-C"
+      <a href="https://github.com/jlvlg/forever-homes-shelter"
         ><img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=jlvlg&repo=IP-Projeto-C"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=jlvlg&repo=forever-homes-shelter"
           alt=""
       /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/jlvlg/IP-Projeto-Python"
+      <a href="https://github.com/jlvlg/Compass-Video"
         ><img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=jlvlg&repo=IP-Projeto-Python"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=jlvlg&repo=Compass-Video"
           alt=""
       /></a>
     </td>
@@ -38,9 +38,9 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/jlvlg/reserva-ai"
+      <a href="https://github.com/jlvlg/social-compass"
         ><img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=jlvlg&repo=reserva-ai"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=jlvlg&repo=social-compass"
           alt=""
       /></a>
     </td>
