@@ -93,12 +93,12 @@ user_details_lines = f"""
 \x1b[96mHost:   \x1b[93mUniversidade Federal do Agreste de Pernambuco \x1b[94m#UFAPE\x1b[0m
 \x1b[96mKernel: \x1b[93mCiência da Computaçao \x1b[94m#BCC\x1b[0m
 \x1b[96mUptime: \x1b[93m{user_age.years} years, {user_age.months} months, {user_age.days} days\x1b[0m
-\x1b[96mIDE:    \x1b[93mVSCode\x1b[0m
 
 \x1b[30;101mContact:\x1b[0m
 --------------
 \x1b[96mEmail:      \x1b[93mj.lucasvinicius03@gmail.com\x1b[0m
 \x1b[96mLinkedIn:   \x1b[93mjose-lucas-vinicius-lopes-gama\x1b[0m
+\x1b[96mPortfolio:  \x1b[93mlucaslopes.dev.br\x1b[0m
 
 \x1b[30;101mGitHub Stats:\x1b[0m
 --------------
