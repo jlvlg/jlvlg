@@ -47,7 +47,7 @@ t.gen_text("Memory Test: 64KB OK", 7, count=seconds(0.5), contin=True)
 t.gen_text("", 11, count=seconds(0.5), contin=True)
 t.clear_frame()
 
-t.gen_text("Initiating Boot Sequence", 1, contin=True)
+t.gen_text("Initiating Boot Sequence ", 1, contin=True)
 t.gen_typing_text(".....", 1, contin=True)
 t.gen_text("\x1b[96m", 1, count=0, contin=True)
 t.set_font(FONT_FILE_LOGO, 66)
