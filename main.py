@@ -49,17 +49,6 @@ t.clear_frame()
 
 t.gen_text("Initiating Boot Sequence ", 1, contin=True)
 t.gen_typing_text(".....", 1, contin=True)
-t.gen_text("\x1b[96m", 1, count=0, contin=True)
-t.set_font(FONT_FILE_LOGO, 66)
-os_logo_text = "Level OS"
-mid_row = (t.num_rows) // 2
-mid_col = (t.num_cols - len(os_logo_text) + 1) // 2
-effect_lines = gifos.effects.text_scramble_effect_lines(
-    os_logo_text, 3, include_special=False
-)
-for line in effect_lines:
-    t.delete_row(mid_row + 1)
-    t.gen_text(line, mid_row + 1, mid_col + 1)
 t.clear_frame()
 
 t.set_font(FONT_FILE_BITMAP)
